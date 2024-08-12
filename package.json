@@ -4,8 +4,7 @@
   "description": "meu-primeiro-projeto-node",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon"
+    "dev": "node --watch server.js"
   },
   "keywords": [
     "primeiro-projeto"
